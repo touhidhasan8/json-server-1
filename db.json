@@ -3,7 +3,7 @@
     {
       "id": "tile_001",
       "title": "Ceramic Blue Tile",
-      "description": "Premium ceramic tile with blue glaze finish",
+      "description": "Premium ceramic tile with elegant blue glaze finish.\nPerfect for kitchens, bathrooms, and living spaces.\nMade from durable high-quality ceramic material.\nWater-resistant and easy to maintain daily.\nSmooth glossy texture enhances modern interiors.\nSuitable for both walls and floors.\nScratch-resistant surface for long-term use.\nEasy installation with precise edge cutting.\nAdds a stylish and luxurious appearance.\nIdeal for contemporary home decoration.",
       "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea",
       "category": "ceramic",
       "price": 45.99,
@@ -16,7 +16,7 @@
     {
       "id": "tile_002",
       "title": "Marble White Tile",
-      "description": "Elegant white marble floor tile",
+      "description": "Elegant white marble tile with premium finish.\nDesigned for luxurious and modern interiors.\nNatural marble texture gives a sophisticated look.\nStrong and durable for long-lasting performance.\nEasy to clean and maintain regularly.\nPerfect for living rooms and hallways.\nProvides a smooth polished surface appearance.\nEnhances brightness and room aesthetics beautifully.\nSuitable for both residential and commercial use.\nExcellent choice for premium floor decoration.",
       "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
       "category": "marble",
       "price": 59.99,
@@ -29,7 +29,7 @@
     {
       "id": "tile_003",
       "title": "Granite Black Tile",
-      "description": "Durable black granite tile for modern homes",
+      "description": "Durable granite tile with deep black finish.\nPerfect for modern and elegant home interiors.\nHighly resistant to scratches and stains.\nStrong surface suitable for heavy usage areas.\nNatural granite material ensures long durability.\nAdds a bold and luxurious appearance.\nIdeal for kitchens, offices, and hallrooms.\nLow maintenance and easy cleaning surface.\nSuitable for indoor and outdoor applications.\nExcellent option for premium flooring projects.",
       "image": "https://images.unsplash.com/photo-1494526585095-c41746248156",
       "category": "granite",
       "price": 65.50,
@@ -42,7 +42,7 @@
     {
       "id": "tile_004",
       "title": "Wooden Texture Tile",
-      "description": "Wood-style ceramic tile with natural finish",
+      "description": "Wood-style ceramic tile with natural appearance.\nCreates a warm and cozy interior environment.\nCombines wooden beauty with ceramic durability.\nWaterproof surface suitable for humid spaces.\nEasy to maintain compared to real wood.\nPerfect for bedrooms and living rooms.\nProvides anti-slip texture for better safety.\nLong-lasting finish with fade resistance.\nIdeal for modern and rustic decorations.\nEnhances interior style with natural elegance.",
       "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858",
       "category": "wooden",
       "price": 39.99,
@@ -55,7 +55,7 @@
     {
       "id": "tile_005",
       "title": "Glossy Grey Tile",
-      "description": "Modern glossy grey wall tile",
+      "description": "Modern glossy grey tile with sleek finish.\nIdeal for stylish walls and floor designs.\nReflective surface adds brightness to interiors.\nMade from strong premium porcelain material.\nEasy cleaning and low maintenance design.\nSuitable for kitchens and bathrooms perfectly.\nScratch-resistant glossy coating for durability.\nCreates a clean and contemporary atmosphere.\nPerfect for residential and office decoration.\nEnhances elegance with modern visual appeal.",
       "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
       "category": "glossy",
       "price": 42.75,
@@ -68,7 +68,7 @@
     {
       "id": "tile_006",
       "title": "Matte Beige Tile",
-      "description": "Soft matte beige tile for interiors",
+      "description": "Soft matte beige tile for elegant interiors.\nProvides a calm and natural room appearance.\nNon-slippery matte texture improves safety.\nPerfect for bedrooms and living spaces.\nMade with high-quality ceramic construction.\nDurable finish for long-term daily use.\nEasy to clean with minimal maintenance.\nSuitable for modern and classic designs.\nNeutral color blends with all decorations.\nExcellent option for comfortable home styling.",
       "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f",
       "category": "matte",
       "price": 37.25,
@@ -81,7 +81,7 @@
     {
       "id": "tile_007",
       "title": "Rustic Brown Tile",
-      "description": "Rustic style tile with brown texture",
+      "description": "Rustic brown tile with textured natural design.\nPerfect for vintage and rustic-style interiors.\nDurable porcelain material ensures long lifespan.\nAdds warmth and charm to any room.\nEasy to maintain and clean regularly.\nSuitable for floors and decorative walls.\nScratch-resistant surface for heavy usage.\nCreates a cozy and traditional atmosphere.\nIdeal for homes, cafes, and restaurants.\nEnhances beauty with earthy brown tones.",
       "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
       "category": "rustic",
       "price": 48.00,
@@ -94,7 +94,7 @@
     {
       "id": "tile_008",
       "title": "Modern Black Tile",
-      "description": "Stylish black tile for luxury interiors",
+      "description": "Stylish black tile designed for luxury interiors.\nModern finish adds elegance to every space.\nStrong granite material offers excellent durability.\nPerfect for premium residential and office areas.\nEasy to clean glossy surface appearance.\nScratch-resistant coating ensures long-term quality.\nSuitable for walls, floors, and hallways.\nCreates a bold and sophisticated atmosphere.\nEnhances interior beauty with dark modern tones.\nExcellent choice for contemporary decoration projects.",
       "image": "https://images.unsplash.com/photo-1494526585095-c41746248156",
       "category": "modern",
       "price": 52.99,
@@ -107,7 +107,7 @@
     {
       "id": "tile_009",
       "title": "Classic Mosaic Tile",
-      "description": "Decorative mosaic tile for bathrooms",
+      "description": "Decorative mosaic tile with artistic design pattern.\nIdeal for bathrooms and kitchen backsplashes.\nMade from premium-quality durable glass material.\nAdds colorful and stylish visual effects.\nWaterproof surface suitable for wet environments.\nEasy installation with flexible tile arrangement.\nEnhances creativity in interior decoration projects.\nSmooth finish ensures simple cleaning process.\nPerfect for modern and classic home styles.\nCreates unique and eye-catching wall designs.",
       "image": "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
       "category": "mosaic",
       "price": 29.99,
@@ -120,7 +120,7 @@
     {
       "id": "tile_010",
       "title": "Stone Finish Tile",
-      "description": "Natural stone finish outdoor tile",
+      "description": "Natural stone finish tile for outdoor spaces.\nProvides a strong and durable surface texture.\nPerfect for patios, gardens, and walkways.\nWeather-resistant design for outdoor environments.\nNatural stone appearance adds timeless beauty.\nEasy maintenance with long-lasting performance.\nSuitable for both residential and commercial use.\nAnti-slip texture improves outdoor safety.\nEnhances exterior decoration with rustic elegance.\nExcellent choice for modern outdoor flooring.",
       "image": "https://images.unsplash.com/photo-1448630360428-65456885c650",
       "category": "stone",
       "price": 54.49,
